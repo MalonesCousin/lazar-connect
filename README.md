@@ -9,4 +9,6 @@ pass that straight on, in the same browser, to the app running on your PC at htt
 - `ebay.html` → `/oauth/ebay/callback` (eBay RuName → "Your auth accepted URL")
 - `aliexpress.html` → `/oauth/aliexpress/callback` (AliExpress app → "Callback URL")
 
+`logo.png` is the Lazar Supplies logo, shown at the top of every eBay listing's description.
+
 Nothing is stored or sent anywhere else. No keys, code or data belong in this repository.
